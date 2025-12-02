@@ -1,0 +1,5 @@
+runs/
+raw_300w/
+processed_data/
+best_model.pth
+raw_300w.zip
